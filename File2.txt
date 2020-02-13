@@ -1,4 +1,11 @@
 helooo
+
 1.change : remote
 2.change : remote remote..................
 3.Change : Remotely...............
+
+change : local
+change : local local..................
+
+change : Locally 
+
